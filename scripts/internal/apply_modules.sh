@@ -18,7 +18,7 @@
 
 # shellcheck disable=SC1091,SC2001
 
-set -Ee
+set 
 
 #[
 SET_PROP()
